@@ -1,0 +1,7 @@
+.idea
+**/*.exe
+
+
+**/*.swp
+
+.scannerwork
