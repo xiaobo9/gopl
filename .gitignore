@@ -5,3 +5,7 @@
 **/*.swp
 
 .scannerwork
+
+*.syso
+
+temp
